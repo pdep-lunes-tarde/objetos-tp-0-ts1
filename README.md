@@ -59,7 +59,10 @@ Al pushear, este repositorio corre automáticamente los tests en GitHub.
 
 Si vamos a la página del repositorio, vamos a ver una cruz roja si los tests no pasaron, la cual podemos clickear para ver más detalles:
 
-img
+![Test rojo GitHub](images/github-fail.png)
 
 En cambio, si los tests pasaron, vas a ver un tick verde como el siguiente:
 
+![Test verde GitHub](images/github-ok.png)
+
+Si ves un punto amarillo, es que los tests se están ejecutando!
